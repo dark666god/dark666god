@@ -73,13 +73,13 @@ body {
 .header-email:hover,
 .footer-email:focus,
 .footer-email:hover {
-  background-image: url("icon-email-alt.svg");
+  background-image: url("img/icon-email-alt.svg");
 }
 
 .header-phone,
 .footer-phone {
   padding-left: 21px;
-  background-image: url("icon-phone.svg");
+  background-image: url("img/icon-phone.svg");
 }
 
 .header-phone:focus,
@@ -160,7 +160,7 @@ body {
 .intro,
 .portfolio {
   background-color: #141530;
-  background-image: url("/img/pattern-lines.svg");
+  background-image: url("img/pattern-lines.svg");
   background-repeat: no-repeat;
   background-position-x: center;
   text-align: center;
@@ -243,11 +243,11 @@ text-align: center;
 }
 
 .skill-html {
-  background-image: url("/img/icon-html.svg");
+  background-image: url("img/icon-html.svg");
 }
 
 .skill-css {
-  background-image: url("/img/icon-css.svg");
+  background-image: url("img/icon-css.svg");
 }
 
 .level {
@@ -266,7 +266,7 @@ text-align: center;
   letter-spacing: 1px;
   line-height: 26px;
   background-color: #5053a8;
-  background-image: url("/img/progress-pattern.svg");
+  background-image: url("img/progress-pattern.svg");
 }
 
 .portfolio {
