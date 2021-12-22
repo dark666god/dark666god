@@ -66,14 +66,14 @@ body {
 .header-email,
 .footer-email {
   padding-left: 28px;
-  background-image: url("img/icon-email.svg");
+  background-image: url("https://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/24/Mail-icon.png");
 }
 
 .header-email:focus,
 .header-email:hover,
 .footer-email:focus,
 .footer-email:hover {
-  background-image: url("img/icon-email-alt.svg");
+  background-image: url("https://icons.iconarchive.com/icons/limav/flat-gradient-social/24/email-icon.png");
 }
 
 .header-phone,
