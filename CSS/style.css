@@ -79,14 +79,14 @@ body {
 .header-phone,
 .footer-phone {
   padding-left: 21px;
-  background-image: url("img/icon-phone.svg");
+  background-image: url("https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/24/Phone-icon.png");
 }
 
 .header-phone:focus,
 .header-phone:hover,
 .footer-phone:focus,
 .footer-phone:hover {
-  background-image: url("img/icon-phone-alt.svg");
+  background-image: url("https://icons.iconarchive.com/icons/iconsmind/outline/24/Phone-2-icon.png");
 }
 
 .page-header a:active,
